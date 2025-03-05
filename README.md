@@ -1,0 +1,2 @@
+# Food_YOLO
+This is the Final Project of class - EFFICIENT AI MODEL DESIGN FOR MACHINE LEARNING AND INFERENCE
