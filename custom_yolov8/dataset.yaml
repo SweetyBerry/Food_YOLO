@@ -1,0 +1,17 @@
+train: D:\Lesson\EAI\Final_Project\custom_yolov8\dataset\images\train\mix_all
+val: D:\Lesson\EAI\Final_Project\custom_yolov8\dataset\images\val\mix_all
+
+nc: 49  # Number of classes
+names: [
+    "bawan", "beef_noodles", "beef_soup", "braised_pork_over_rice", "brown_sugar_cake",
+    "bubble_tea", "caozaiguo", "coffin_toast", "cold_noodles", "deep-fried_chicken_cutlets",
+    "egg_pancake_roll", "fried_eel_noodles", "fried_instant_noodles", "grilled_corn",
+    "grilled_taiwanese_sausage", "hung_rui_chen_sandwich", "kung-pao_chicken", "mochi",
+    "mung_bean_smoothie_milk", "nougat", "oyster_fritter", "oyster_omelet", "pepper_pork_bun",
+    "pineapple_cake", "potsticker", "preserved_egg_tofu", "rice_dumpling",
+    "rice_with_soy-stewed_pork", "roasted_sweet_potato", "sanxia_golden_croissants",
+    "scallion_pancake", "sesame_oil_chicken_soup", "shrimp_rice", "sishen_soup", "sliced_pork_bun",
+    "spicy_duck_blood", "stewed_pig_s_knuckles", "stinky_tofu", "sun_cake", "sweet_and_sour_pork_ribs",
+    "taiwanese_sausage_in_rice_bun", "three-cup_chicken", "tube-shaped_migao", "turkey_rice",
+    "turnip_cake", "twist_roll", "wheel_pie", "xiaolongbao", "yolk_pastry"
+]  # Class names
